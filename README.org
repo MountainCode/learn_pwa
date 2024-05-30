@@ -4,4 +4,24 @@
 
 * Followups
 
+** Validation
+
+#+begin_quote
+A good application would inform the user what the error is, put focus on the
+offending form control, and use ARIA live regions to alert assistive technology
+users to the error.
+#+end_quote
+
+** Storage
+
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
+- https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
+
+** A11y
+
 - [[https://developer.mozilla.org/en-US/docs/Learn/Forms][Making accessible forms]]
+- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions
+
+** Conditional requests
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests
