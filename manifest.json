@@ -2,7 +2,7 @@
   "name": "Period Tracker",
   "short_name": "PT",
   "descriptions": "Tracks periods of time for anything.",
-  "start_url": "/",
+  "start_url": "/learn_pwa",
   "theme_color": "#eeffee",
   "background_color": "#eeffee",
   "display": "standalone",
