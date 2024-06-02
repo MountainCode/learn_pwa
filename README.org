@@ -25,3 +25,10 @@ users to the error.
 ** Conditional requests
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests
+
+** Manifest
+*** icons
+
+Why not add ~any~ to the ~sizes~ array for the largest .svg file?
+
+https://www.pwabuilder.com/imageGenerator
