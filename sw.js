@@ -7,7 +7,8 @@ const APP_STATIC_RESOURCES = [
   '/index.html',
   '/style.css',
   '/app.js',
-  '/icons/wheel.svg'
+  '/icons/wheel.svg',
+  '/icons/circle.svg'
 ];
 
 // install all resources from the server when the app is updated or initially
