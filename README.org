@@ -33,3 +33,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests
 Why not add ~any~ to the ~sizes~ array for the largest .svg file?
 
 https://www.pwabuilder.com/imageGenerator
+
+** Service Worker
+
+The ~install~ event is triggered on a fresh install and when a new version of
+the service worker is detected.
